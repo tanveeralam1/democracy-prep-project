@@ -23,6 +23,7 @@ Note: At the current time, this was not a private page due to time constraints.
 
 Viewing this Private Page, gives access to the survey data Google Sheets, as well as pre-set dynamic pie charts that allow for visual data representation and will adjust as more responses are added.
 
+To view any code, it is accessible withi this Git repository.
 
 Please contact me for futher questions or if anything is unclear.
 
